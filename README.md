@@ -3,6 +3,9 @@
 ## Overview
 This project aims to address the critical issue of distracted driving by leveraging Convolutional Neural Networks (CNNs) and Transfer Learning models. The challenge, presented by State Farm on Kaggle, involves classifying driver behaviors based on a dataset of 2D dashboard camera images. The goal is to automatically detect distracted behaviors such as texting, talking on the phone, operating the radio, and more.
 
+## Medium Article
+[Navigating Safe Roads: The Future of Driver Behavior Analysis](https://medium.com/@rubynie1102/navigating-safe-roads-the-future-of-driver-behavior-analysis-c8802aef6545)
+
 ## Problem Statement
 According to the CDC Motor Vehicle Safety Division, distracted driving is a leading cause of car accidents, accounting for one in five incidents. The consequences are severe, with 425,000 injuries and 3,000 fatalities annually. State Farm seeks to improve these alarming statistics and enhance customer safety and insurance by exploring the potential of dashboard cameras in identifying distracted driving behaviors.
 
